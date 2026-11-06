@@ -1,6 +1,6 @@
 # work_with_superagent
 
-Sandbox repository for dsh-superagent: open an issue or comment mentioning the agent account to request work.
+This project is used to test superagent (dsh-superagent). It is a sandbox repository: open an issue or comment mentioning the agent account to request work.
 
 ## Requesting work
 
